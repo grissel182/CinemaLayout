@@ -1,0 +1,200 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width: 1349px;
+	margin: 0 auto;
+}
+
+/*parte de header*/
+.header{
+	background-color: white;
+	height: 80px;
+}
+.titulo{
+	margin-left: 80px;
+	display: inline-block;
+}
+.head{
+	color: #C6BEBE;
+	font-size: 10px;
+	font-family: Arial;
+	display: inline-block;
+	position: absolute;
+	top: 40px;
+	left: 500px;
+}
+.buscar{
+	height: 40px;
+	width: 180px;
+	border:1px solid #9E9999;
+	display: inline-block;
+	right: 150px;
+	top: 20px;
+	position: absolute;
+}
+.search{
+	height: 20px;
+	position: relative;
+	left: 140px;
+	top: 10px;
+}
+/* imagen de banner y especificaciones pelicula */
+*{
+	font-family: Arial;
+}
+.banner{
+	width: 100%;
+}
+.info{
+	width: 380px;
+	position: absolute;
+	top: 160px;
+	right: 100px;
+}
+.title{
+	font-size: 40px;
+	font-family: "Arial Narrow" !important;
+	color: white;
+	position: relative;
+}
+.line{
+	background-color: #8D8A8A;
+	position: relative;
+	top: -25px;
+}
+.age{
+	width: 65px;
+	height: 30px;
+	border-radius: 10%;
+	border:2px solid #1D8636;
+	color:#1D8636 ;
+	text-align: center;
+	padding-top: 8px;
+	display: inline-block;
+}
+.actors{
+	display: inline-block;
+	margin-left: 10px;
+}
+span{
+	margin-left: 80px;
+}
+.ratting{
+	font-size: 12px;
+	color: white;
+}
+/*botones de ver trailer y venta*/
+.watch{
+	width: 150px;
+	height: 40px;
+	background-color: #F1B54C;
+	border-radius: 8px;
+}
+.book{
+	background-color: #EC7628;
+	margin-top: 20px;
+}
+.play{
+	width: 22px;
+	display: inline-block;
+	margin-left: 12px;
+	margin-top: 13px;
+}
+.ver{
+	display: inline-block;
+	color: white;
+	font-size: 11px;
+	position: relative;
+	top: -5px;
+	left: 5px;
+}
+/* fin de imagen banner con texto */
+
+/* fondo de color con imagenes de pelis */
+.orange{
+	height: 270px;
+	background-color: #F1941B;
+	position: relative;
+	top: -5px;
+	padding: 30px 30px 30px 80px;
+}
+.dvd{
+	position: relative;
+	height: 250px;
+	margin: 5px;
+	display: inline-block;
+}
+/* video */
+.marg{
+	margin-top: -5px;
+}
+/* parte de textos - compra de tickets */
+.textos{
+	display: inline-block;
+	width: 40%;
+	padding-left: 50px;
+	position: absolute;
+}
+.left{
+	margin-left: 40px;
+}
+.new{
+	height: 50px;
+}
+.red{
+	font-size: 10px;
+	color: #8E1212;
+	margin-top: 20px;
+}
+.grey{
+	color: grey;
+}
+.big{
+	font-size: 25px;
+}
+.top{
+	margin-top: 50px;
+}
+.total{
+	height: 330px;
+}
+.der{
+	margin-left: 50%;
+}
+.tittle{
+	font-size: 12px;
+	color: black;
+}
+.gris{
+	font-size: 10px;
+	color: #D0CECE;
+}
+.more{
+	color: orange;
+	font-size: 11px;
+	margin-top: 30px;
+}
+.last{
+	padding-left: 60px;
+	padding-top: 20px;
+}
+/* ultimo div de portadas de peliculas */
+.portadas{
+	width: 270px;
+	margin: 15px;
+	display: inline-block;
+}
+.foot{
+	height: 200px;
+	background-color: #DCD9D9;
+}
+/* footer */
+.foot p{
+	color: #BEB9B9;
+	margin-left: 70px;
+}
+.pd{
+	padding: 40px 0 0 0;
+}
